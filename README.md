@@ -19,11 +19,6 @@ Requirements:
   - The system will present a list of all emojis when no search term is present.
   - The system will filter the list of emojis by name based on the text in the search bar.
 
-Design:
-
-LINK TO DESIGN
-
-
 # Part 2 - Emoji Translate
 
 The emoji translate will allow users to translate text to emoji based on the emoji's `shortcode`.
@@ -35,11 +30,8 @@ Requirements:
   - The system will automatically translate emoji's `shortcodes` to their respective symbols as the user types.
 
 
-Design:
-
-LINK TO DESIGN
-
-
 # Assets
 
-TODO:
+Mockup of App
+
+![Mockup Image](https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/app_preview.png?alt=media&token=a03dab35-dffa-435d-a133-260a0be34f30)
