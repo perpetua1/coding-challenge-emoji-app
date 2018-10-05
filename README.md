@@ -32,6 +32,8 @@ Requirements:
 
 # Assets
 
+Note: Some of the assets are missing margins & paddings, just do your best to match the image, not a big deal if it's off by a couple pixels. 
+
 Mockup of App
 
 ![Mockup Image](https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/app_preview.png?alt=media&token=a03dab35-dffa-435d-a133-260a0be34f30)
@@ -100,7 +102,7 @@ color: #000000;
 
 Translate Text Field
 
-![Text Field]https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/text%20field.png?alt=media&token=ef93798b-40ea-4d4d-8ec6-d822a570144b)
+![Text Field](https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/text%20field.png?alt=media&token=ef93798b-40ea-4d4d-8ec6-d822a570144b)
 ```
 background: #FFFFFF;
 border: 2px solid #C3C1C1;
