@@ -31,6 +31,10 @@ Requirements:
 
 Example Video of functionality, *not* UI. [Video](https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/demo.mov?alt=media&token=adfc3abe-651d-4f02-b666-f6646cd36fa8)
 
+# Extra - Copy to Clipboard
+
+Clicking on an emoji in the search list will copy that emoji to the clipboard.
+
 # Assets
 
 Note: Some of the assets are missing margins & paddings, just do your best to match the image, not a big deal if it's off by a couple pixels. 
