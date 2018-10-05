@@ -29,6 +29,7 @@ Requirements:
 
   - The system will automatically translate emoji's `shortcodes` to their respective symbols as the user types.
 
+Example Video of functionality, *not* UI. [Video](https://firebasestorage.googleapis.com/v0/b/coding-challenge-emoji-app.appspot.com/o/demo.mov?alt=media&token=adfc3abe-651d-4f02-b666-f6646cd36fa8)
 
 # Assets
 
